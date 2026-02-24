@@ -1,0 +1,14 @@
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\bin\Debug\net8.0\Secondlab.exe
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\bin\Debug\net8.0\Secondlab.deps.json
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\bin\Debug\net8.0\Secondlab.runtimeconfig.json
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\bin\Debug\net8.0\Secondlab.dll
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\bin\Debug\net8.0\Secondlab.pdb
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\Secondlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\Secondlab.AssemblyInfoInputs.cache
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\Secondlab.AssemblyInfo.cs
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\Secondlab.csproj.CoreCompileInputs.cache
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\Secondlab.dll
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\refint\Secondlab.dll
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\Secondlab.pdb
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\Secondlab.genruntimeconfig.cache
+C:\Users\gryaznovas\source\repos\Secondlab\Secondlab\obj\Debug\net8.0\ref\Secondlab.dll
