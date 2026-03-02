@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gryaznovas\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gryzn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gryaznovas\\source\\repos\\Secondlab\\Secondlab\\Secondlab.csproj",
+      "projectUniqueName": "C:\\Users\\gryzn\\Source\\Repos\\firstlab_2ex\\Secondlab\\Secondlab.csproj",
       "projectName": "Secondlab",
-      "projectPath": "C:\\Users\\gryaznovas\\source\\repos\\Secondlab\\Secondlab\\Secondlab.csproj",
-      "packagesPath": "C:\\Users\\gryaznovas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gryaznovas\\source\\repos\\Secondlab\\Secondlab\\obj\\",
+      "projectPath": "C:\\Users\\gryzn\\Source\\Repos\\firstlab_2ex\\Secondlab\\Secondlab.csproj",
+      "packagesPath": "C:\\Users\\gryzn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gryzn\\Source\\Repos\\firstlab_2ex\\Secondlab\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gryaznovas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\gryzn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
