@@ -7,12 +7,13 @@ namespace Secondlab
 
     public class Logic
     {
-        public int SearchingForTriplesForTriangle(int cnt, List<List<int>> triples)
+        public static int SearchingForTriplesForTriangle(List<List<int>> triples)
         {
             var cntTriples = 0;
             foreach (List<int> sides in triples) { 
-
+                
                 sides.Sort();
+
                 if ((sides[0] + sides[1]) > sides[2])
                 {
                     cntTriples++;
