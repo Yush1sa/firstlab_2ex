@@ -36,6 +36,27 @@ namespace Secondlab.Tests
             var cntValidSide = Logic.SearchingForTriplesForTriangle(triples);
             Assert.AreEqual(0, cntValidSide);
         }
+        [TestMethod()]
+        public void EmptySides()
+        {
+            var triples = new List<List<int>>();
+
+            var cntValidSide = Logic.SearchingForTriplesForTriangle(triples);
+            Assert.AreEqual(0, cntValidSide);
+        }
+        [TestMethod()]
+        public void AllSidesAreSuitable()
+        {
+            var triples = new List<List<int>>{
+            new List<int> { 5, 4, 8 },
+            new List<int> { 2, 2, 2 },
+            new List<int> { 3, 6, 8 }
+            };
+
+            var cntValidSide = Logic.SearchingForTriplesForTriangle(triples);
+            Assert.AreEqual(3, cntValidSide);
+        }
+
 
     }
 }
